@@ -36,7 +36,7 @@
       ]
     },
     {
-      "title": "Weater",
+      "title": "Weather",
       "startDate": "2020",
       "description": "Simples app to check the weather with OpenWeather API.",
       "images": [
@@ -84,7 +84,7 @@
   "experience": [
     {
       "company": "Proinfo Sistemas",
-      "title": "Front-End Developer",
+      "title": "Fullstack Developer",
       "years": "07.2010 - present",
       "mainTech": [
         "Php"
