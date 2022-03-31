@@ -1,11 +1,11 @@
 {
     "basic_info": {
       "name": "Bruno Justino",
-      "titles": [ "FullStack Developer", "Senior Data Engineer", "Dev Team lead" ],
+      "titles": [ "FullStack Developer"],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/brunojustino",
           "class": "fab fa-github"
         },
         {
@@ -30,7 +30,7 @@
         },
         {
           "name": "React",
-          "class": "devicon-reactjs-plain",
+          "class": "devicon-react-plain",
           "level": "80"
         },
         {
