@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Olá",
-      "description": "👋 Me Chamo Bruno e fiz esse site para demonstrar algumas das minhas habilidades com React. ",
+      "description": "Me Chamo Bruno e fiz esse site para demonstrar algumas das minhas habilidades com React. ",
       "section_name": {
         "about": "Sobre",
         "projects": "Projetos",
@@ -51,63 +51,52 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Calculadora",
+        "startDate": "2020",
+        "description": "Calculadora usando Flexbox para se ajustar a qualquer tamanho de tela",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/calculadora/p1.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://brunojustino.github.io/calculator/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Pedra, Papel, Tesoura",
+        "startDate": "2020",
+        "description": "Projeto para o The Odin Project curriculum",
+        "images": [
+          "images/portfolio/pedrapapeltesoura/p1.jpg"
+        ],
+        "url": "https://brunojustino.github.io/rock-paper-scissors/",
+        "technologies": [
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Proinfo Sistemas",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "07.2010 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Php"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Python",
+          "Php",
+          "Mysql",
+          "Redes"
         ]
       }
     ]
