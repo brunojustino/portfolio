@@ -12,13 +12,14 @@
     "projects": [
       {
         "title": "Proinfo Sistemas",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "startDate": "2017",
+        "description": "Site para os clientes da empresa gerarem a senha para acesso ao aplicativo no windows e pagar boletos.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/proinfo/p1.jpg",
+          "images/portfolio/proinfo/p2.jpg",
+          "images/portfolio/proinfo/p3.jpg"
         ],
-        "url": "",
+        "url": "https://proinfosistemas.com.br/",
         "technologies": [
           {
             "class": "devicon-php-plain",
