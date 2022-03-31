@@ -39,7 +39,7 @@
         "startDate": "2020",
         "description": "Simples aplicativo para uso da OpenWeather Api.",
         "images": [
-          "images/portfolio/photography/p1.jpg"
+          "images/portfolio/clima/p1.jpg"
         ],
         "url": "https://brunojustino.github.io/weather-app/",
         "technologies": [
