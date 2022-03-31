@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "name": "Bruno Justino",
-      "titles": [ "FullStack Developer", "Senior Data Engineer", "Dev Team lead" ],
+      "name": "Davina Griss",
+      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
       "social": [
         {
           "name": "github",
@@ -29,8 +29,8 @@
           "level": "95"
         },
         {
-          "name": "React",
-          "class": "devicon-reactjs-plain",
+          "name": "Angular",
+          "class": "devicon-angularjs-plain",
           "level": "80"
         },
         {
@@ -54,8 +54,8 @@
           "level": "85"
         },
         {
-          "name": "Php",
-          "class": "devicon-php-plain",
+          "name": "C#",
+          "class": "devicon-csharp-plain",
           "level": "65"
         },
         {
