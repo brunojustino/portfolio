@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 //import angularIcon from "@iconify/icons-logos/angular-icon";
 import reactIcon from "@iconify/icons-logos/react";
-import mongodbIcon from "@iconify/icons-logos/mongodb";
+import mongodbIcon from "@iconify/icons-simple-icons/mongodb";
 
 class About extends Component {
   render() {
