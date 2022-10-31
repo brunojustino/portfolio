@@ -79,6 +79,21 @@
           "name": "Javascript"
         }
       ]
+    },
+    {
+      "title": "Reddit Kittens",
+      "startDate": "2022",
+      "description": "Dynamic image gallery using Reddit Api",
+      "images": [
+        "images/portfolio/redditkittens/p1.jpg"
+      ],
+      "url": "https://brunojustino.github.io/redditkittens/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        }
+      ]
     }
   ],
   "experience": [
